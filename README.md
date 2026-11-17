@@ -1,1 +1,1 @@
-# Quake
+# Quake-2
